@@ -34,4 +34,11 @@ public class Sorteggio {
     public boolean isDaMischiare() {
         return daMischiare;
     }
+
+    public List<Squadra> SorteggioPartite() {
+        for()
+        if()
+            throw new  IndexOutOfBoundsException ("Squadre finite");
+    }
+
 }
